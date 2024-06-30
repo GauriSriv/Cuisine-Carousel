@@ -6,7 +6,7 @@
     font-family: sans-serif;
 }
 body{
-    background: url(images/bg.jpg) no-repeat;
+    background: url(bg.jpg) no-repeat;
     height: 100vh;
     width: 100%;
     background-size: cover;
@@ -235,7 +235,7 @@ section .media i:hover{
     height: 100vh;
     padding: 70px 0;
     background-color: rgb(246, 155, 139);
-    background: url(images/s.jpg) no-repeat;
+    background: url(s.jpg) no-repeat;
     height: 100vh;
     width: 100%;
     background-size: cover;
